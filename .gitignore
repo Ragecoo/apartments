@@ -9,7 +9,7 @@ __pycache__/
 .vscode/
 
 squares_data/
-data/
+catboost_info/
 *.csv
 
 map.html
